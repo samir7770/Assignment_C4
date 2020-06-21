@@ -1,0 +1,157 @@
+*{
+	margin: 0;
+	padding: 0
+	}
+body{}
+img{max-width: 100%}
+header{
+    background: #7F56F5;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.menu{
+    padding: 20px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    list-style-type: none;
+    text-align: right;
+    font-size: 20px;
+}
+nav ul li{
+    display: inline-block;
+    color: white;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.our{
+    text-align: center;
+    padding: 80px;
+    margin-top: 40px;
+    color: white;
+}
+.our h1{padding: 20px;font-size: 50px;}
+.our p{
+    font-size: 20px;
+}
+
+section{}
+.one{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.two{}
+.three{}
+.four{}
+.five{}
+.text{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.text h1{
+    font-size: 30px;
+}
+.text p{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #443f3f;
+}
+.button{
+    background: #8158F5;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 25px;
+}
+.button a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 10px 25px;
+    display: block;
+}
+.image{
+    width: 50%;
+    float: left;
+}
+.image img{    width: 80%}
+
+
+footer{}
+.up{
+}
+.col{
+    width: 25%;
+    float: left;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.up-logo{}
+.up-logo img{}
+.type{
+    font-size: 12px;
+    padding: 10px;
+    color: #443f3f;
+}
+.type h3{}
+
+.about{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.about_options{}
+.about_options ul{
+    padding-top: 15px;
+    color: #443f3f;
+    list-style-type: none;
+}
+.about_options ul li{
+    color: #443f3f;
+    padding: 7px;
+}
+
+.workflow{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.workflow_options{}
+.workflow_options ul{
+    list-style-type: none;
+    padding-top: 15px;
+    color: #443f3f;
+}
+.workflow_options ul li{
+    padding: 7px;
+}
+
+.team{
+    font-size: 22px;
+    font-weight: bolder;
+}
+.team_options{}
+.team_options ul{
+    list-style-type: none;
+    padding-top: 15px;
+    color: #443f3f;
+}
+.team_options ul li{
+    padding: 7px;
+}
+
+.down{}
+.down img{}
